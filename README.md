@@ -14,6 +14,7 @@ The queries used to make the visualization is:
 3. Highest Infection Count and Percent Population Infected by Location and Population
 4. Highest Infection Count and Percent Population Infected by Location, Population and Date
 
-Link to [SQL EDA](https://github.com/brenascimento/PortfolioProjects/blob/main/COVID%20Portfolio%20Project%20Actual%20Scripts%20in%20Video.sql)
+<img src="COVID_Dashboard_Image.png">
 
+Link to [SQL EDA](https://github.com/brenascimento/PortfolioProjects/blob/main/COVID%20Portfolio%20Project%20Actual%20Scripts%20in%20Video.sql)
 Link to [Visualization](https://public.tableau.com/app/profile/brenno.nascimento.de.oliveira/viz/CovidDashboard2022_16438369581080/Painel1)
