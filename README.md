@@ -5,7 +5,7 @@
 1 - Covid Analysis Project with SQL and Tableau
 
 In this project, We used to EDA(Exploratory Data Analysis), the [COVID-19 Deaths OWID Data](https://ourworldindata.org/covid-deaths) about dates of 01-2020 to 01-2022 
-using <br> `SQL Server`, specifically the `SQL Server Management Studio`<br>
+using `SQL Server`, specifically the `SQL Server Management Studio`<br>
 and We created a dashboard using `Tableau` based on the data analyzed.
 
 The queries used to make the visualization is: 
@@ -16,5 +16,5 @@ The queries used to make the visualization is:
 
 <img src="COVID_Dashboard_Image.png">
 
-Link to [SQL EDA](https://github.com/brenascimento/PortfolioProjects/blob/main/COVID%20Portfolio%20Project%20Actual%20Scripts%20in%20Video.sql)
+Link to [SQL EDA](https://github.com/brenascimento/PortfolioProjects/blob/main/COVID%20Portfolio%20Project%20Actual%20Scripts%20in%20Video.sql) <br>
 Link to [Visualization](https://public.tableau.com/app/profile/brenno.nascimento.de.oliveira/viz/CovidDashboard2022_16438369581080/Painel1)
