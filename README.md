@@ -1,4 +1,4 @@
-# Portfolio Projects
+# Data Analysis Projects
 
 <em>These projects are part of a series entitled "[Data Analyst Portfolio Project](https://www.youtube.com/playlist?list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f)" by [Alex, the Analyst](https://www.youtube.com/channel/UC7cs8q-gJRlGwj4A8OmCmXg) where the Alex guides and teaches the process of creating a Data Analysis project to all want learn about it and helping to anyone become a Data Analyst or Data Scientist</em>
 
